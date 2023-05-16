@@ -1,0 +1,12 @@
+{
+  "name": "@vitkonstacky/eslint-config-vue",
+  "version": "1.0.0",
+  "description": "Vue configuration for eslint",
+  "license": "MIT",
+  "author": "Vít Konštacký",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 8",
+    "eslint-plugin-vue": ">= 9"
+  }
+}
